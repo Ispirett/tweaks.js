@@ -59,3 +59,4 @@
 * transpose
 * unique
 * valuesAt
+* any - returns true if element exist in the array or false otherwise.
